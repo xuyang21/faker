@@ -10,9 +10,9 @@ import (
 	"time"
 	"unicode/utf8"
 
-	fakerErrors "github.com/go-faker/faker/v4/pkg/errors"
-	"github.com/go-faker/faker/v4/pkg/interfaces"
-	"github.com/go-faker/faker/v4/pkg/options"
+	fakerErrors "github.com/xuyang21/faker/pkg/errors"
+	"github.com/xuyang21/faker/pkg/interfaces"
+	"github.com/xuyang21/faker/pkg/options"
 )
 
 const (

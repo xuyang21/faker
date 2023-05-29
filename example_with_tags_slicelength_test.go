@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-faker/faker/v4"
-	"github.com/go-faker/faker/v4/pkg/options"
+	"github.com/xuyang21/faker"
+	"github.com/xuyang21/faker/pkg/options"
 )
 
 // SomeStructWithSliceLength ...

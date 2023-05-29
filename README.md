@@ -30,7 +30,7 @@ See documentation in [Go.Dev](https://pkg.go.dev/github.com/go-faker/faker/v4?ta
 #### Download
 
 ```shell
-go get -u github.com/go-faker/faker/v4
+go get -u github.com/xuyang21/faker
 ```
 
 # Example

@@ -14,10 +14,10 @@ import (
 	"sync"
 	"time"
 
-	fakerErrors "github.com/go-faker/faker/v4/pkg/errors"
-	"github.com/go-faker/faker/v4/pkg/interfaces"
-	"github.com/go-faker/faker/v4/pkg/options"
-	"github.com/go-faker/faker/v4/pkg/slice"
+	fakerErrors "github.com/xuyang21/faker/pkg/errors"
+	"github.com/xuyang21/faker/pkg/interfaces"
+	"github.com/xuyang21/faker/pkg/options"
+	"github.com/xuyang21/faker/pkg/slice"
 )
 
 var (

@@ -1,4 +1,4 @@
-module github.com/go-faker/faker/v4
+module github.com/xuyang21/faker
 
 go 1.17
 

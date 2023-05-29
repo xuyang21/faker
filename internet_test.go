@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-faker/faker/v4/pkg/slice"
+	"github.com/xuyang21/faker/pkg/slice"
 )
 
 func TestEmail(t *testing.T) {
